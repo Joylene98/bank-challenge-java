@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jasmine": "^5.1.0"
+  }, 
+  "type": "module",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node src/index.js"
+  }
+}
